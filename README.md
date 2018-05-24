@@ -1,1 +1,1 @@
-# Text-to-Image-Video-synthesis-using-GAN-machine-learning-
+# Text to Image/Video synthesis using GANs
