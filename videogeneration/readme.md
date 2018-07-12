@@ -1,1 +1,2 @@
-## This folder includes all the code that is neccessary to run videogeneration
+## generation of vidoes 
+Visit the wiki page with the same title to learn more about this code.
