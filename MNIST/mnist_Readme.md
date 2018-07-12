@@ -1,3 +1,3 @@
-## Generation of MNIST dataset Images
+## Generating MNIST dataset Images
 
-Please visit the wiki page with teh same title to learn more about this code.
+Please visit the wiki page with the same title to learn more about this code.
