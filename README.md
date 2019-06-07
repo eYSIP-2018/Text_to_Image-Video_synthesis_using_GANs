@@ -2,15 +2,15 @@
 This repository contains all the code that was developed during eyantra summer internship 2018 at IITB.
 
 ## Objective
-In this project we have developed models that can generate dataset of newimages, images based on text description and video dataset based on men-tioned  category.
+In this project we have developed models that can generate dataset of new images, images based on text description and video dataset based on men-tioned category.
 
 ## Authors 
 * Deval Srivastava
-* Aishwarya J kalloli
+* Aishwarya J Kalloli
 
 ## Mentors
 * Aditya Panwar
-* kalind karia
+* Kalind Karia
 
 ## Folders
 * mnist: Contains all the code for mnist dataset generation 
